@@ -13,6 +13,9 @@ html {
   /* 2 */
   -webkit-text-size-adjust: 100%;
   /* 2 */
+  max-width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* Sections
